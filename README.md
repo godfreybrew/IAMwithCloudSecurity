@@ -116,7 +116,7 @@ A [github action](https://github.com/rooted-io/cloudit/blob/main/.github/workflo
 
 
 
-At the current time the tool produce for every customer-provider tuple a report in `csv`, `json` and `html` formats (3 files for every report).  
+At the current time the tool produce for every customer - provider tuple a report in `csv`, `json` and `html` formats (3 files for every report).  
 
 
 
