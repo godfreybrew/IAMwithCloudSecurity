@@ -6,9 +6,10 @@
 
 
 Welcome to **IAM with CloudSecurity** – Day 3 of the AWS Beginners Challenge!  
-This project, maintained by Godfrey, provides step-by-step instructions and resources to master Identity and Access Management (IAM) in AWS, ensuring your cloud environments are secure and your permissions finely controlled.
+This project provides step-by-step instructions and resources to master Identity and Access Management (IAM) in AWS, ensuring your cloud environments are secure and your permissions finely controlled.
 
-- Project Owner: Godfrey
+- Project Owner: Godfrey Brew Ntiamoah
+- https://www.linkedin.com/in/godfrey-brew-ntiamoah
 
 ---
 
