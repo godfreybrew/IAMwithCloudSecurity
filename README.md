@@ -16,7 +16,6 @@ This project, maintained by Godfrey, provides step-by-step instructions and reso
 - [Overview](#overview)
 - [Project Goals](#project-goals)
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Step-by-Step Guide](#step-by-step-guide)
 - [Screenshots](#screenshots)
@@ -49,5 +48,69 @@ This project guides absolute beginners through best practices for AWS cloud secu
 - Bonus: Set an account alias for a clean login URL.
 - Enable Multi-Factor Authentication (MFA) for extra security.
 
-## Project Structure
+## Getting Started
+1. Clone the Repository
+
+bash
+git clone https://github.com/godfreybrew/IAMwithCloudSecurity
+
+2. AWS Account Prerequisites
+. An AWS account with administrative credentials.
+. IAM and EC2 access.
+
+## Step-by-Step Guide
+A practical walkthrough will be uploaded soon and will cover:
+
+Launching and tagging EC2 instances (production & development).
+
+Writing and applying a least-privileged, tag-specific IAM policy.
+
+Creating an IAM group, user, and assigning policy.
+
+Configuring an AWS account alias and enabling MFA.
+
+Testing permissions and using the ## IAM Policy Simulator for validation.
+
+## Screenshots
+
+Illustrative screenshots are located in the screenshots folder.
+
+They demonstrate key actions such as:
+
+. EC2 instance tagging
+
+. IAM policy creation and JSON entry
+
+. Group and user creation
+
+. Policy simulation and permission validation
+
+## Resources
+Additional reading and AWS documentation:
+
+. AWS IAM Official Guide
+
+. AWS EC2 Documentation
+
+. IAM Best Practices
+
+. AWS Free Tier
+
+## Contributing
+
+Contributions are encouraged!
+Please:
+
+Fork this repository.
+
+Follow best practices for branching and pull requests.
+
+Submit detailed issues and PRs for improvements.
+
+
+## License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+
 
